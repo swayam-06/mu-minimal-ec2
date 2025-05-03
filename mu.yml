@@ -14,4 +14,4 @@ service:
   pipeline:
     source:
       provider: GitHub
-      repo: timbaileyjones/mu-minimal-ec2
+      repo: swayam-06/mu-minimal-ec2
